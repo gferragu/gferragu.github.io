@@ -1,0 +1,13 @@
+.DS_Store
+*code-workspace
+
+# Compiled site
+_site
+.jekyll-cache/
+
+# Sass garbage
+.sass-cache
+
+# Bundler
+.bundle/
+vendor/
